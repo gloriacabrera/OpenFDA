@@ -1,0 +1,10 @@
+Gloria Cabrera Moreno [26_abril_2017]
+
+-Práctica final básica (openfda_basica)
+-Práctica final ampliada 1 (openfda_ampliada)
+-Práctica final ampliada 2 (openfda_ampliada2)
+-Práctica final ampliada 3 (openfda_ampliada3)
+-Práctica final ampliada 4 (openfda_ampliada4)
+
+La práctica final esta en el directorio openfda, en los archivos web.py y server.py 
+Usuario de github: gloriacabrera
